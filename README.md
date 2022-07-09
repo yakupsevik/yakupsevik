@@ -4,7 +4,7 @@
 
 <br/>  
 
-### <div align="center">I'm Yakup, a Full-Stack Web Developer from Türkiye (Turkey).</div>  
+### <div align="center">I'm Yakup, a Full-Stack Web Developer from Turkiye (Turkey).</div>  
 
 #
   
