@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/gif.gif" align="center" height="250" width="450" />
+<img src="/aniyuki-kokushibo-phone-wallpaper-25-rotated.jpg" align="center" height="300" width="550" />
 </div>  
 
 <br/>  
