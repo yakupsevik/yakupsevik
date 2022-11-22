@@ -4,16 +4,16 @@
 
 <br/>  
 
-### <div align="center">I'm Yakup, a Full-Stack Web Developer from Turkiye (Turkey).</div>  
+### <p align="center" style="color: #FFF000">I'm Yakup, a Full-Stack Web Developer from Turkiye (Turkey).</p>  
 
 #
   
 <br/>  
 
-- 🔭 I’m currently working on [undefined](#)  
+- 🔭 I’m currently working on [NTEY | Subscription System ](#)  
   
 
-- 🌱 I’m currently learning React.js!  
+- 🌱 I’m currently learning React.js & Next.js!  
   
 
 - ❓ Ask me about anything related to MERN & MEVN Stack and related technologies.  
