@@ -90,7 +90,7 @@
   
 
 <div align="center">
-<img src="https://discord.c99.nl/widget/theme-1/869484609648353300.png" align="center" height="" width="" />
+<img src="https://discord.c99.nl/widget/theme-2/869484609648353300.png" align="center" height="" width="" />
 </div>  
   
 
