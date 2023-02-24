@@ -10,7 +10,7 @@
   
 <br/>  
 
-- 🔭 I’m currently working on [NTEY | Subscription System ](#)  
+- 🔭 I’m currently working on [xBowtie | Front-end](#)  
   
 
 - 🌱 I’m currently learning React.js & Next.js!  
