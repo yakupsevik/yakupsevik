@@ -1,36 +1,33 @@
 <div align="center">
-<img src="/aniyuki-kokushibo-phone-wallpaper-25-rotated.jpg" align="center" height="300" width="550" />
-</div>  
+<img src="/nero.gif" align="center" height="300" width="550" />
+</div>
 
-<br/>  
+<br/>
 
-### <p align="center" style="color: #FFF000">I'm Yakup, a Full-Stack Web Developer from Turkiye (Turkey).</p>  
+### <p align="center" style="color: #FFF000">I'm Yakup, a Full-Stack Web Developer from Turkiye (Turkey).</p>
 
 #
-  
-<br/>  
 
-- 🔭 I’m currently working on [xBowtie | Front-end](#)  
-  
+<br/>
 
-- 🌱 I’m currently learning React.js & Next.js!  
-  
+- 🔭 I’m currently working on [xBowtie | Front-end](#)
 
-- ❓ Ask me about anything related to MERN & MEVN Stack and related technologies.  
-  
+- 🌱 I’m currently learning React.js & Next.js!
 
-- ⚡ Fun fact: I use tabs over spaces.  
-  
+- ❓ Ask me about anything related to MERN & MEVN Stack and related technologies.
 
-<br/>  
+- ⚡ Fun fact: I use tabs over spaces.
 
-## My Skill Set  
+<br/>
 
-<br/>  
+## My Skill Set
+
+<br/>
 
 <table><tr><td valign="top" width="33%">
 
 ### Front-end
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  -->
@@ -47,9 +44,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Back-end
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  -->
@@ -60,9 +56,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  -->
@@ -71,9 +66,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
 ## Connect with me
 
@@ -87,18 +82,18 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
 
 <div align="center">
 <img src="https://discord.c99.nl/widget/theme-2/869484609648353300.png" align="center" height="" width="" />
 </div>  
-  
 
-<br/>  
 
-## Github Stats  
+<br/>
 
-<br/>  
+## Github Stats
+
+<br/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yakupsevik&hide_border=false&include_all_commits=false&count_private=false"/>
@@ -108,22 +103,22 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakupsevik&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-<br/>  
+<br/>
 
 #
 
-<br/>  
+<br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cxgp05fz5x4i30c8nzaxl9s74&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cxgp05fz5x4i30c8nzaxl9s74&cover_image=true&theme=default" /></div>
 
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yakupsevik&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
+
+<br/>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/yakupsevik" target="_blank" style="display: inline-block;">
